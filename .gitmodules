@@ -1,3 +1,6 @@
 [submodule "FirstSubmodule"]
 	path = FirstSubmodule
 	url = https://github.com/SIMBA111111/FirstSubmodule.git
+[submodule "SecondSubmodule"]
+	path = SecondSubmodule
+	url = https://github.com/SIMBA111111/SecondSubmodule.git
