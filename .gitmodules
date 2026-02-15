@@ -1,0 +1,3 @@
+[submodule "FirstSubmodule"]
+	path = FirstSubmodule
+	url = https://github.com/SIMBA111111/FirstSubmodule.git
